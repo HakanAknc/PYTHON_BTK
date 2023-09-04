@@ -1,0 +1,5 @@
+ahmet yılmaz:60,70,80
+methmet yılmaz:90,80,70
+deniz efe:70,80,90
+hakan akıncı:100,80,70
+sena duran:45,56,78
